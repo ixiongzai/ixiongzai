@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ixiongzai or call me wenxuan
-- 🐻‍❄️ xiongzai comes from I love Kumanmon
-- 🌘 I’m currently learning HTML, CSS, JS ...
-- 🍀 Speculative design Researcher 
-- Love 100% 🌵 🍵 🌶 📖
+👋 Hi, I’m @ixiongzai or call me wenxuan
+
+🐻‍❄️ xiongzai comes from I love Kumanmon
+
+🌘 A beginner, learning HTML, CSS, JS ... 
+
+🍀 Speculative design Researcher 
+
+Love 100% 🌵 🍵 🌶 📖
 
 <!---
 ixiongzai/ixiongzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
