@@ -2,9 +2,7 @@
 
 🐻‍❄️ xiongzai comes from I love Kumanmon
 
-🌘 A beginner, learning HTML, CSS, JS ... 
-
-🍀 Speculative design Researcher 
+🌘 A beginner for code 
 
 Love 100% 🌵 🍵 🌶 📖
 
