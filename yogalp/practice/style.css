@@ -1,0 +1,48 @@
+
+body{
+	font-family:Arial,sans-serif
+}
+
+H1{
+	color:white; font-wight:bold; font-size:36px;
+	text-align:center; background-color: lightgreen;
+}
+
+img.sample{
+	max-width:50%
+}
+
+figure. sample{
+	float：right
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both
+}
+
+strong.x1{
+	background:linear-gradient(transparent 10%, yellow 10%);
+}
+strong.x2{
+	background:linear-gradient(transparent 60%, yellow 20%);
+	}
+strong.x3{
+	background:linear-gradient(transparent 90%, yellow 50%);
+	}
+
+a:hover{
+	background-color:blue;color:white;
+}
+
+a:active{
+	background-color:lightpink;color:white;
+
+
+.cv-contents {
+	max-width:800px;
+	line-height:36px;
+	font-wight:bold;
+}
+
+                     
