@@ -1,7 +1,5 @@
 👋 Hi, I’m @ixiongzai or call me wenxuan
 
-🐻‍❄️ xiongzai comes from I love Kumanmon
-
 🌘 A beginner for code 
 
 Love 100% 🌵 🍵 🌶 📖
